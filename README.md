@@ -5,6 +5,11 @@ The Turtle Crossing Game is a fun and simple arcade-style game where the player 
 
 The game is built using Python and the `turtle` module.
 
+## Video
+
+https://github.com/user-attachments/assets/bcccecf0-d995-43fc-8f33-5c8553e3b28f
+
+
 ## How to Play:
 - Use the "Up" arrow key to move the turtle upwards.
 - Avoid the moving cars.
