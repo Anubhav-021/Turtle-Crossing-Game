@@ -24,4 +24,6 @@ The game is built using Python and the `turtle` module.
 ## Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/turtle-crossing-game.git
+   git clone https://github.com/Anubhav-021/turtle-crossing-game.git
+   ```
+   
